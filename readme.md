@@ -2,6 +2,10 @@
 本仓库开始创建，将用于保存Go版的labuladong算法小抄的内容。
 新手学习Go语言，愿意分享学习过程。还有很多不足，若愿意指导，非常感谢！
 
+### 地址
+* Github: https://github.com/honlu/GoLabuladongAlgorithm
+* Gitee: https://gitee.com/dreamzll/GoLabuladongAlgorithm 
+
 ### 1、学习算法和刷题的框架
 熟悉常见的Go版：
 - 数组遍历框架
